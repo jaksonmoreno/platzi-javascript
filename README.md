@@ -16,3 +16,10 @@ Voy a desarrollar los talleres del curso practico de javascript que estoy tomand
 - Segundo paso: Implementar las fórmulas en JavaScript con valores fijos
 - Tercer paso: Crear funciones
 - Cuarto paso: Interactuar con HTML desde JavaScript
+
+## Taller #2: promedio, mediana y moda
+
+- Primer paso: Definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavaScript 
+- Tercer paso: Crear funciones
+- Cuarto paso: Interactuar con HTML desde JavaScript
